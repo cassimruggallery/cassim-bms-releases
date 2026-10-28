@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "notes": "Cassim BMS 1.1.1",
+  "pub_date": "2026-10-28T21:13:35Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjhOSVNiRUMvRitJUmRWbm5UOWdubEFiUjVwVUhzMURIb25jb042YlZ6YUo4Vm5HTkd6RXdFUUVlRW9MU1hqdnpOOFkrRTlubGJIejdKaVRXbFJUY3dNY0x2eDA2N2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjIxOTk0CWZpbGU6Q2Fzc2ltIEJNU18xLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjEKM3RtaC9Mazd5dUVZTkt3NXpaOEQzaGpzdE1nSjYrY2V5L1FSZys0Z0NiR0JodUVSNTErZlprR0xqNjQrQzZMUFNkSEtxVHhaNFJhU3cxZTFZWnFvQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/cassimruggallery/cassim-bms-releases/main/releases/v1.1.1/Cassim%20BMS_1.1.1_x64-setup.exe"
+    }
+  }
+}
