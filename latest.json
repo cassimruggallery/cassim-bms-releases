@@ -1,11 +1,11 @@
 {
-  "version": "2.0.10",
-  "notes": "Cassim BMS 2.0.10",
-  "pub_date": "2026-11-01T23:03:08Z",
+  "version": "2.0.11",
+  "notes": "Cassim BMS 2.0.11",
+  "pub_date": "2026-11-02T23:10:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjhOSVNiRUMvRnk5SmErdlVxL2d0Y1I0dkhuaFZTWlprNVdpWUVSK05GalJybllvMVA2UExYckEzWk5GZWNzVklId1BDcTUvM0ErLzJjRS9ZS3NVbXU1c1o2OTBKaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTc0MTM0CWZpbGU6Q2Fzc2ltIEJNU18yLjAuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMC4xMApEMGJIdm1GRzdJRTJuWlRCVVl3QWhISnNPQy96LzE3cTl2ODVldmRkZm9ZZzhuS21rbUFZMkRjYmNzeUFiYlIwYnE4RG5yYVB6SkpvYzlLMURMdVlBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/cassimruggallery/cassim-bms-releases/main/releases/v2.0.10/Cassim%20BMS_2.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjhOSVNiRUMvRjlocXFlQm5WeThPRlJOclhEaVBaWmR1eWxITmxCcW43OXkzZzF5dlV2dENsK1ArT2NxYUk2VGxUcFdzajN5aG9DYjRPZkoxZGJkOXRUZ2pERllhN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjYwOTc0CWZpbGU6Q2Fzc2ltIEJNU18yLjAuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMC4xMQpYbGZQYnFYbGQwcC85d2FiQm1HWGl0WXEwM3F0T3VLd1RuRzJHUzBZMzVRUjByd2Z3S0VFZ0poYWhsbmc1c2hEMmZRdGN4NWg0RDFkdEpidkFNMVNCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/cassimruggallery/cassim-bms-releases/main/releases/v2.0.11/Cassim%20BMS_2.0.11_x64-setup.exe"
     }
   }
 }
